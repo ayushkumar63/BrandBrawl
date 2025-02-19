@@ -1,0 +1,185 @@
+#navBar ul li {
+  list-style: none;
+  margin-left: 150px;
+  padding: 10px;
+}
+
+#navBar ul {
+  display: flex;
+}
+
+body {
+  background-image: url('https://www.shutterstock.com/image-vector/digital-technology-metaverse-neon-blue-600nw-2260816645.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#navBar {
+  display: flex;
+  font-size: 20px;
+  background-image: linear-gradient(red, orange);
+  color: white;
+  padding: 2px;
+  border-radius: 30px;
+}
+
+#navBar2 {
+  margin-top: 60px;
+  background-image: linear-gradient(#4f0d0d, #b45f5f);
+  padding: 5px;
+  color: white;
+  border-radius: 25px;
+}
+
+#navBar2 ul {
+  display: flex;
+}
+
+#navBar2 ul li {
+  list-style: none;
+  margin-left: 100px;
+}
+
+#navBar2 ul li {
+  font-size: 20px;
+  padding: 5px;
+  margin-left: 190px;
+}
+
+#heading1 {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+
+#navBar ul li:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+#navBar2 ul li:hover {
+  background-color: white;
+  cursor: pointer;
+  color: black;
+}
+
+#actionArea {
+  background-image: linear-gradient(#2a0a01, #f97676);
+  margin-top: 15px;
+  border-radius: 20px;
+  padding: 35px;
+  color: white;
+  height: 900px;
+}
+
+#racingArea {
+  background-image: linear-gradient(#2a0a01, #f97676);
+  margin-top: 15px;
+  border-radius: 20px;
+  padding: 35px;
+  color: white;
+  height: 900px;
+}
+
+#openWorldArea {
+  background-image: linear-gradient(#2a0a01, #f97676);
+  margin-top: 15px;
+  border-radius: 20px;
+  padding: 35px;
+  color: white;
+  height: 900px;
+}
+
+#sportsArea {
+  background-image: linear-gradient(#2a0a01, #f97676);
+  margin-top: 15px;
+  border-radius: 20px;
+  padding: 35px;
+  color: white;
+  height: 900px;
+}
+
+#actionHeading {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+#racingHeading {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+#openWorldHeading {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+#sportsHeading {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+.row {
+  display: flex;
+}
+
+.gameImage {
+  height: 250px;
+  width: 300px;
+  border-radius: 25px;
+}
+
+.card {
+  text-align: center;
+  font-size: larger;
+  margin-left: 220px;
+}
+
+.gameImage:hover {
+  cursor: pointer;
+  height: 280px;
+  width: 330px;
+}
+
+#buttonArea {
+  margin-left: 500px;
+}
+
+.Button {
+  padding: 20px 40px;
+  margin-left: 15px;
+  font-size: larger;
+  border-radius: 20px;
+  background-color: #0c0c73;
+  color: white;
+  border: none;
+}
+
+.Button:hover {
+  cursor: pointer;
+  background-color: white;
+  color: #0c0c73;
+  border: 3px solid #0c0c73;
+}
+
+#footerNav {
+  margin-top: 50px;
+  background-image: linear-gradient(#95eadc, white);
+  padding: 10px 60px;
+  font-size: 20px;
+  border-radius: 25px;
+  display: flex;
+}
+
+#para1 {
+  margin-left: 800px;
+}
